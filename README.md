@@ -11,19 +11,19 @@ https://online.visualstudio.com/
 
 Next, create a new Codespace from your forked repository.
 
-![create a new Codespace](https://www.secondstate.io/external/img/vscode_create.png)
+![Create a new Codespace](https://www.secondstate.io/external/img/vscode_create.png)
 
 Then open the `main.rs` and `Cargo.toml` files and code your fancy Rust application!
 
-![code in Codespace](https://www.secondstate.io/external/img/vscode_code.png)
+![Code in Codespace](https://www.secondstate.io/external/img/vscode_code.png)
 
 Click on the Run button in the IDE, and see your Rust application's output in the Terminal window in the IDE.
 
-![run the Rust program in terminal](https://www.secondstate.io/external/img/vscode_run.png)
+![Run the Rust program in terminal](https://www.secondstate.io/external/img/vscode_run.png)
 
 From the Terminal window, you can see the built results in the `target` directory.
 
-![access the file system in the terminal](https://www.secondstate.io/external/img/vscode_terminal.png)
+![Access the file system in the terminal](https://www.secondstate.io/external/img/vscode_terminal.png)
 
 You can log into Github from the IDE, and send code changes or built artifacts back into the GitHub repository.
 
