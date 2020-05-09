@@ -29,7 +29,7 @@ From the Terminal window, you can run any Linux command including `cargo` and `r
 
 ![Access the file system in the terminal](https://www.secondstate.io/external/img/vscode_terminal.png)
 
-Now, go learn Rust or try out the examples in your new IDE!
+Now, go [learn Rust](https://doc.rust-lang.org/book/) or [try out the examples](https://doc.rust-lang.org/stable/rust-by-example/) in your new IDE!
 
 
 
