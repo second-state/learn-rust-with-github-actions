@@ -1,7 +1,7 @@
 # Working with VSCode Codespaces
 
-This template works with the VSCode Codespaces online IDE! Just [fork it](https://github.com/second-state/learn-rust-with-github-actions/fork), 
-open it in the online IDE, write Rust code, build, and run it directly from the IDE. No software download or install needed!
+VSCode is the [most popular IDE](https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html#ides-and-tooling---a-closer-look) for developing Rust applications. This template works with the VSCode Codespaces online IDE! Just [fork it](https://github.com/second-state/learn-rust-with-github-actions/fork), 
+open it in the online IDE, write Rust code, build, and run it directly from the IDE. No software download or install needed! 
 
 > About the cost: the web verison of VSCode costs around $1 per work day. It is cheaper than a cup of coffee in the office.
 
