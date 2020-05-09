@@ -17,17 +17,20 @@ Then open the `main.rs` and `Cargo.toml` files and code your fancy Rust applicat
 
 ![Code in Codespace](https://www.secondstate.io/external/img/vscode_code.png)
 
-Click on the Run button in the IDE, and see your Rust application's output in the Terminal window in the IDE.
+Click on the Run Debug button in the left panel, and then the Run button at the top. 
 
-![Run the Rust program in terminal](https://www.secondstate.io/external/img/vscode_run.png)
+![Run the Rust program](https://www.secondstate.io/external/img/vscode_run_button.png)
 
-From the Terminal window, you can see the built results in the `target` directory.
+See your Rust application run. Its standard output is displayed in the Terminal window in the IDE.
+
+![See output in terminal](https://www.secondstate.io/external/img/vscode_run.png)
+
+From the Terminal window, you can run any Linux command including `cargo` and `rustup`. For example, you can manually run the executable binary in the `target` directory.
 
 ![Access the file system in the terminal](https://www.secondstate.io/external/img/vscode_terminal.png)
 
-You can log into Github from the IDE, and send code changes or built artifacts back into the GitHub repository.
+Now, go learn Rust or try out the examples in your new IDE!
 
-![Push the code changes and built artifacts to GitHub](https://www.secondstate.io/external/img/vscode_git.png)
 
 
 
