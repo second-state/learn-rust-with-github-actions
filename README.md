@@ -9,7 +9,7 @@ First, open the [VSCode Codespaces](https://online.visualstudio.com/) web site a
 
 https://online.visualstudio.com/
 
-Next, create a new Codespace from your forked repository.
+Next, create a new Codespace. Put your forked repository into the Git Repository field.
 
 ![Create a new Codespace](https://www.secondstate.io/external/img/vscode_create.png)
 
