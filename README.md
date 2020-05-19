@@ -9,6 +9,7 @@
 VSCode is the [most popular IDE](https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html#ides-and-tooling---a-closer-look) for developing Rust applications. This template works with the VSCode Codespaces online IDE! Just [fork it](https://github.com/second-state/learn-rust-with-github-actions/fork), 
 open it in the online IDE, write Rust code, build, and run it directly from the IDE. No software download or install needed! 
 
+![Learn Rust](https://github.com/second-state/blog/blob/master/static/images/learn-rust-20-seconds.gif?raw=true)
 > VSCode Codespaces runs entirely in your browser and costs around $1 per work day. It is cheaper than a cup of coffee in the office. Alternatively, in steps 1-2 below, you could use locally installed VSCode and Docker, and [launch the IDE with your remote git repository](https://code.visualstudio.com/remote-tutorials/containers/getting-started).
 
 First, open the [VSCode Codespaces](https://online.visualstudio.com/) web site and login with your Azure account. You can get a [free Azure account](https://azure.microsoft.com/en-us/free/).
