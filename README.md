@@ -1,4 +1,4 @@
-# Working with VSCode Codespaces
+# Working with VS Codespaces
 
 <p>
     <a href="https://online.visualstudio.com/environments/new?name=Learn%20Rust&repo=second-state/learn-rust-with-github-actions">
@@ -6,14 +6,14 @@
     </a>
 </p>
 
-VSCode is the [most popular IDE](https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html#ides-and-tooling---a-closer-look) for developing Rust applications. This template works with the VSCode Codespaces online IDE! Just [fork it](https://github.com/second-state/learn-rust-with-github-actions/fork), 
+VSCode is the [most popular IDE](https://blog.rust-lang.org/2020/04/17/Rust-survey-2019.html#ides-and-tooling---a-closer-look) for developing Rust applications. This template works with the VS Codespaces online IDE! Just [fork it](https://github.com/second-state/learn-rust-with-github-actions/fork), 
 open it in the online IDE, write Rust code, build, and run it directly from the IDE. No software download or install needed! 
 
 ![Learn Rust](https://github.com/second-state/blog/blob/master/static/images/learn-rust-20-seconds.gif?raw=true)
 
-> VSCode Codespaces runs entirely in your browser and costs around $1 per work day. It is cheaper than a cup of coffee in the office. Alternatively, in steps 1-2 below, you could use locally installed VSCode and Docker, and [launch the IDE with your remote git repository](https://code.visualstudio.com/remote-tutorials/containers/getting-started). Check out [this tutorial](https://youtu.be/LAQ5_wG15CY) on YouTube.
+> Check out the [high-res screencast](https://youtu.be/LAQ5_wG15CY). VS Codespaces runs entirely in your browser and costs around $1 per work day. It is cheaper than a cup of coffee in the office. Alternatively, use locally installed VSCode and Docker, and [launch the IDE with your remote git repository](https://code.visualstudio.com/remote-tutorials/containers/getting-started). 
 
-First, open the [VSCode Codespaces](https://online.visualstudio.com/) web site and login with your Azure account. You can get a [free Azure account](https://azure.microsoft.com/en-us/free/).
+First, open the [VS Codespaces](https://online.visualstudio.com/) web site and login with your Azure account. You can get a [free Azure account](https://azure.microsoft.com/en-us/free/).
 
 Next, create a new Codespace. Put your forked repository into the Git Repository field.
 
